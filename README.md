@@ -3,8 +3,7 @@ This repo uses [LibP2P library](https://github.com/libp2p/go-libp2p) to showcase
 LibP2P has many functions and it can be quite challenging to simply know when to use what functions. In the code, I have commented every function extensively so that it can help people with their learning process so that they can use LibP2P in their own programs.  
 Basic node functionalitis are in `basicNode.go` and all the others have corresponding names.
 ## Running
-To run this, after compilation, type in help so that the CLI guides you from thet oint on forward.
-## Example list
+To run this, after compilation and running the compiled binary, type 'Help' to see the list of available options.
 
 - [Heartbeat](#heartbeat)
 - [Payment](#payment)
